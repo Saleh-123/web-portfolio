@@ -10,6 +10,8 @@ h2{
 }
 p{
     color: dimgray;
+    text-align: justify;
+    padding-right: 10px;
 }
 .orange-highlight{
     color: orange;
